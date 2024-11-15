@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mycallerapp</string>
+    <string name="welcome">welcome</string>
+    <string name="exit">Exit</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="remenber_me">Remenber me</string>
+    <string name="email">email</string>
+    <string name="saisir_name">saisir name</string>
+    <string name="saisir_mot_passe">saisir mot passe</string>
+    <string name="password">Password</string>
+    <string name="add_new">add New</string>
+    <string name="liste">liste</string>
+    <string name="search">search</string>
+    <string name="listview">listview</string>
+    <string name="list_of_profil">List of Profil</string>
+    <string name="enter_your_text">Enter your text</string>
+    <string name="search_your_text">Search your text</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="cancel">cancel</string>
+    <string name="name">Name</string>
+    <string name="passwordd">Password</string>
+    <string name="number">Number</string>
+    <string name="add_profil">add Profil</string>
+
+        <string name="btn_back_list_label">Retour</string>
+
+
+</resources>
